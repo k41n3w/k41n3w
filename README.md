@@ -1,10 +1,10 @@
-<img align="right" width="200" height="200" src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
  
 ## I'm Caio Ramos
  
 I work with IT since 2010 and became a programmer in 2017. I have experience with Relational Banks (SQL's), Ruby on Rails, AWS Services, Docker, TDD, Agility and I am starting my studies in the React world. I am currently studying Data Science at UNIVESP, and I have an almost complete degree as a Data Scientist at PUC Minas.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k41n3w)](https://github.com/k41n3w/k41n3w)
+[![Caio Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=k41n3w)](https://github.com/k41n3w/k41n3w)
 
 
 ## Contact me
