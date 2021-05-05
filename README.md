@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
+<img align="right" width="500" height="400" src="https://media.giphy.com/media/XHtP7rq0zKoMxH4gBF/giphy.gif">
  
 ## I'm Caio Ramos
  
