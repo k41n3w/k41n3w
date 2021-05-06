@@ -18,7 +18,9 @@
 - 📫 How to reach me **kaineo@hotmail.com**  
   
 <h2 align="center">My recente posts</h2> 
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Importando dados com rails na velocidade da luz](https://medium.com/@caio_ramos/importando-dados-com-rails-na-velocidade-da-luz-51dcdace605?source=rss-6795ed0fba0a------2)
+- [Como conseguir suas primeiras badges de RoR treinador](https://medium.com/@caio_ramos/como-conseguir-suas-primeiras-badges-de-ror-treinador-65320f8486c1?source=rss-6795ed0fba0a------2)
 <!-- BLOG-POST-LIST:END -->
   
 <h2 align="center">Languages and Tools</h2>  
