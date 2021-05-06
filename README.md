@@ -1,15 +1,31 @@
-<img align="right" width="500" height="400" src="https://media.giphy.com/media/XHtP7rq0zKoMxH4gBF/giphy.gif">
- 
-## I'm Caio Ramos
- 
-I work with IT since 2010 and became a programmer in 2017. I have experience with Relational Database (SQL's), Ruby on Rails, AWS, Docker, TDD, Agile and I am starting my studies in the React world. I am currently studying Data Science at UNIVESP, and I have an almost complete degree as a Computer Scientist at PUC Minas.
-
-
-## My Stacks
-<img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-## Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/caio-ramos-83271943/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=5535991762580&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:cwfr88@gmail.com)
- 
+<h1 align="center">Hi 👋, I'm Caio Ramos</h1>  
+<h3 align="center">A passionate developer from Brasil</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k41n3w&label=Profile%20views&color=0e75b6&style=flat" alt="k41n3w" /> </p>  
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k41n3w" alt="k41n3w" /></a> </p>  
+  
+- 🔭 I’m currently working on [Portal Solar](https://www.portalsolar.com.br/)  
+  
+- 🌱 I’m currently learning **React**  
+  
+- 👨‍💻 All of my projects are available at [https://k41n3w-portfolio.vercel.app/](https://k41n3w-portfolio.vercel.app/)  
+  
+- 📝 I regularly write articles on [https://medium.com/@caio_ramos](https://medium.com/@caio_ramos)  
+  
+- 💬 Ask me about **Ruby on rails** , **Docker**
+  
+- 📫 How to reach me **kaineo@hotmail.com**  
+  
+### Blogs recent posts  
+<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:END -->
+  
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k41n3w&show_icons=true&locale=en&layout=compact" alt="k41n3w" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k41n3w&show_icons=true&locale=en" alt="k41n3w" /></p>  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k41n3w&" alt="k41n3w" /></p>
