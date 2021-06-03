@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Caio Ramos</h1>  
 <h3 align="center">A passionate developer from Brasil</h3>  
 
-- 🔭 I’m currently working on [Portal Solar](https://www.portalsolar.com.br/)  
+- 🔭 I’m a Software Engineer working at [Caiena](https://caiena.net/)  
 
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning how to do everthing better. 
 
 - 👨‍💻 You can see my portfolio [here](https://k41n3w-portfolio.vercel.app/)  
 
