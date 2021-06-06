@@ -26,14 +26,12 @@
   Github Stats  
 </h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k41n3w&title=Commit,Stars,Repositories&column=3" alt="k41n3w" /></a> </p> 
-
 <table style="width: 100%;"><tbody><tr>
 <td style="width=50%;">
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k41n3w&show_icons=true&locale=en&layout=compact" alt="k41n3w" /></p>  
 </td>
 <td style="width=50%;">
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k41n3w&show_icons=true&locale=en" alt="k41n3w" /></p>  
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k41n3w&title=Commit,Stars,Repositories&column=3" alt="k41n3w" /></a>  
 </td>
 </tr></tbody></table>
 
