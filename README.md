@@ -26,7 +26,7 @@
   Github Stats  
 </h2>
 
-<table style="width: 100%;"><tbody><tr>
+<table align="center" style="width: 100%;"><tbody><tr>
 <td style="width=50%;">
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k41n3w&show_icons=true&locale=en&layout=compact" alt="k41n3w" /></p>  
 </td>
