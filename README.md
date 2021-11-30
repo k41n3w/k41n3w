@@ -1,23 +1,22 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width=50%;">
-<h1 align="center">Hi 👋, I'm Caio Ramos</h1>  
-<h3 align="center">A passionate developer from Brasil</h3>  
+<td>
+<h1 align="center">Oi 👋, meu nome é Caio Ramos</h1>  
+<h3 align="center">Um curioso programador de Caconde interior de São Paulo</h3>  
 
-- 🔭 I’m a Software Engineer working at [Caiena](https://caiena.net/)  
+- 🔭 Atualmente sou Engenheiro de Software na [Caiena](https://caiena.net/)  
 
-- 🌱 I’m currently learning how to do everthing better. 
+- 🌱 No momento estou aprofundando meus conhecimentos em Ruby/Ruby on Rails e aprendendo mais sobre Ciência de Dados com Python, você pode ver meu material apoio aos estudos de Python [aqui](https://drive.google.com/drive/folders/1DzLFkP5fzbwEyPrrNXEmGWbw7FRCNRD5?usp=sharing). 
 
-- 👨‍💻 You can see my portfolio [here](https://k41n3w-portfolio.vercel.app/)  
+- 👨‍💻 Você pode ver meu portfolio [aqui](https://k41n3w-portfolio.vercel.app/)  
 
-- 📝 I regularly write articles on [medium](https://medium.com/@caio_ramos)  
+- 📝 Se liga nas coisasa que já escrevi no [medium](https://medium.com/@caio_ramos)!
 
-- 💬 Ask me about **Ruby on rails** , **Docker**
+- 💬 Estou sempre a procura de alguém para conversar sobre código a vida e tudo mais, ficarei feliz com um contato seu!
 
-- 📫 How to reach me **kaineo@hotmail.com**   
+- 📫 Meu email: **kaineo@hotmail.com**   
 </td>
-<td style="width=50%;"><img align="right" width="500" height="450" src="https://media.giphy.com/media/XHtP7rq0zKoMxH4gBF/giphy.gif"></td>
 </tr>
 </tbody>
 </table>
