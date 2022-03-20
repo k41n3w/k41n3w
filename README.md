@@ -3,15 +3,15 @@
 <tr>
 <td>
 <h1 align="center">Oi 👋, meu nome é Caio Ramos</h1>  
-<h3 align="center">Um curioso programador de Caconde interior de São Paulo</h3>  
+<h3 align="center">Sou engenheiro de software e evangelizador do desenvolvimento web.</h3>  
 
-- 🔭 Atualmente sou Engenheiro de Software na [Caiena](https://caiena.net/)  
+- 🔭 Atualmente trabalho na [Caiena](https://caiena.net/)  
 
 - 🌱 No momento estou aprofundando meus conhecimentos em Ruby/Ruby on Rails e aprendendo mais sobre Ciência de Dados com Python, você pode ver meu material apoio aos estudos de Python [aqui](https://drive.google.com/drive/folders/1DzLFkP5fzbwEyPrrNXEmGWbw7FRCNRD5?usp=sharing). 
 
 - 👨‍💻 Você pode ver meu portfolio [aqui](https://k41n3w-portfolio.vercel.app/)  
 
-- 📝 Se liga nas coisasa que já escrevi no [medium](https://medium.com/@caio_ramos)!
+- 📝 Aqui tem um pouco do que eu já escrevi [medium](https://medium.com/@caio_ramos)!
 
 - 💬 Estou sempre a procura de alguém para conversar sobre código a vida e tudo mais, ficarei feliz com um contato seu!
 
