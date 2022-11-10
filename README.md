@@ -13,9 +13,6 @@
 
 - 📝 Aqui tem um pouco do que eu já escrevi [medium](https://medium.com/@caio_ramos)!
 
-- 💬 Estou sempre a procura de alguém para conversar sobre código a vida e tudo mais, ficarei feliz com um contato seu!
-
-- 📫 Meu email: **kaineo@hotmail.com**   
 </td>
 </tr>
 </tbody>
